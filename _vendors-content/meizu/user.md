@@ -1,5 +1,6 @@
 ---
-manufacturer: 
+m
+nufacturer: 
     - meizu
 
 ---
